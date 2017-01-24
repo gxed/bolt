@@ -1,0 +1,16 @@
+{
+  "author": "boltdb",
+  "bugs": {
+    "url": "https://github.com/boltdb/bolt"
+  },
+  "gx": {
+    "dvcsimport": "github.com/boltdb/bolt"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "bolt",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.3.0"
+}
+
